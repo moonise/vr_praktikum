@@ -111,3 +111,5 @@ InitTestScene*.unity*
 **/Library_old/
 
 **/Library_old/
+/Praktikum5_Haptic/Assets/Bhaptics/SDK2/Resources/BhapticsSettings.asset
+.DS_Store
